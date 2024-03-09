@@ -3,8 +3,8 @@
 *.sln
 *.vcxproj
 *.vcproj
-*.vcproj.filters
-*.vcproj.user
+*.filters
+*.user
 *.pdb
 *.idb
 lab1/
