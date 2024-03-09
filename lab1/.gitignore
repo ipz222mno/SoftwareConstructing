@@ -1,0 +1,11 @@
+.vscode/
+.vs/
+*.sln
+*.vcxproj
+*.vcproj
+*.vcproj.filters
+*.vcproj.user
+*.pdb
+*.idb
+lab1/
+x64/
